@@ -6,6 +6,7 @@ which the dataset was collected and describe the dataset itself.
 ## Prerequisites
 
 Instructions how to ...
+What software/code was used?
 
 ## Folder contents
 
@@ -13,9 +14,16 @@ Describe the contents of your data package. This is especially
 interesting if there are multiple files. Start with describing the 
 folder structure, what you can expect in each folder and then the files. 
 You can make a table or filetree if you think that is useful for the project. 
+File naming 
+File format 
 
-## Codebook
+## Data Collection (optional)
 
+Maybe include RQ
+
+## (for simple) Codebook 
+
+How was the dataset processed?
 A codebook explains the variables in the dataset(s). This is interesting for 
 tabular dataset, but also all kinds of other files. Give at minimum the name 
 of the variable, a description, and the type. A format can be:
@@ -31,6 +39,10 @@ data licenses are [Creative Commons licenses](https://creativecommons.org/about/
 For example:
 
 > This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## Citation 
+
+Recommend a citattion for dataset 
 
 ## Contact 
 
