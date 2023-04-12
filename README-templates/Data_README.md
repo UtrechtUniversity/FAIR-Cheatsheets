@@ -2,20 +2,28 @@
 
 Write here an introduction to your dataset. Describe the project in
 which the dataset was collected and describe the dataset itself.
+Add links to publications if possible.
+You can copy paste this to the description of the dataset. 
+Provide link to related datasets.
 
 ## Prerequisites
 
 Instructions how to ...
-What software/code was used?
+If applicable, describe which software is necessary to open your data files.  
 
-## Folder contents
+## Contents 
 
+### Folder structure
 Describe the contents of your data package. This is especially 
 interesting if there are multiple files. Start with describing the 
 folder structure, what you can expect in each folder and then the files. 
 You can make a table or filetree if you think that is useful for the project. 
-File naming 
-File format 
+
+### File naming conventions 
+Describe any naming conventions used in your dataset 
+
+### File formats 
+Describe the file formats and the software needed to open the dataset. 
 
 ## Data Collection (optional)
 
@@ -40,9 +48,9 @@ For example:
 
 > This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-## Citation 
+## Citation (optional)
 
-Recommend a citattion for dataset 
+Describe how you wish to be cited.
 
 ## Contact 
 
