@@ -11,19 +11,23 @@ scope, and potential uses of your code. Also, consider including
 links to relevant publications or resources that provide additional
 context.
 
-
 ## Prerequisites
 
 Include any necessary prerequisites for using your code, such as
-required datasets, specific software, dependencies or hardware requirements. For example: This project required Python 3.8 or later and install the dependencies with `pip install -r requirements.txt`. 
+required datasets, specific software, dependencies or hardware
+requirements. For example: This project requires Python 3.8 or later
+and install the dependencies with `pip install -r
+requirements.txt`. 
 
 ## Contents 
 
 ### Folder structure
 
-Describe the organization of your package, including the contents
-of each folder and the files it contains. Use tables or file trees to
-make it easy for users to understand your folder structure. Describe where results and figures are store if not added to the project folder. 
+Describe the organization of your package, including the contents of
+each folder and the files it contains. Use tables or file trees to
+make it easy for users to understand your folder structure. Describe
+where results and figures are stored if not added to the project
+folder.
 
 ### File formats 
 
@@ -32,12 +36,16 @@ required to open them.
 
 ## Usage
 
-Describe how anyone (or you in the future), can rerun the analysis and code. Include detailed step by step instructions if your work consists of multiple execution steps. 
+Provide clear and concise instructions on how to use your code.
+Include examples of how to execute the code and describe the expected
+output. If your work consists of multiple execution steps, provide
+detailed step-by-step instructions. 
 
 ## License
 
-With a open license, you grant permission to use your work. The most common open 
-software licenses are MIT, GPL3 and Apache 2.0. The most used license by Utrecht Univerversity researchers is MIT. 
+With an open-source license, you grant permission to use your work.
+The most common open-source licenses are MIT, GPL3, and Apache 2.0.
+Choose a license that aligns with your goals for your code.
 
 For example:
 
@@ -46,12 +54,11 @@ For example:
 ## Citation (optional)
 
 Provide clear instructions on how to cite your code or related
-publications in a research paper or publication.
-
-On GitHub, you can also add a file CITATION.CFF. 
+publications in a research paper or publication. You can include the
+citation in the README file or create a separate CITATION.cff file. 
 
 ## Contact 
 
-Include contact information for questions or comments about your
-code. You can also provide clear instructions for how users can
-provide feedback, contribute, or suggest improvements to your work. 
+Include contact information for questions or comments about your code.
+You can also provide clear instructions for how users can provide
+feedback, contribute, or suggest improvements to your work. 
