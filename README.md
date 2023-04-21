@@ -1,9 +1,10 @@
 # FAIR Cheatsheets
-Make your research data and code FAIR with the UU FAIR Cheatsheets! :sparkles:
 
-The Open Science Programme was established at the UU to accelerate the transition to Open Science, and to fundamentally alter the practice of education and research. The programme aims to make science more open, reliable, efficient and relevant to society by promoting ideas that contribute to the principles of accountability, replicability, integrity and openness of science.  
+Welcome to our cheatsheets for making your research data and code FAIR! :sparkles:
 
-Due to the broad scope of this project, the programme is divided into five tracks. The FAIR data and software track focuses on how research data and software is managed. The objective is to make research data and software Findable, Accessible, Interoperable and Reusable (FAIR). As part of this project, cheatsheets have been created in order to advance this objective. These cheatsheets–one focused on data and another one focused on code–are intended for researchers and, ultimately, provide actionable measures that will compel researchers to publish their data and code in a FAIR manner. Considering the future of the Open Science Programme, it is the aim of the FAIR data and software track to continuously improve the current cheatsheets, but also to create specific cheatsheets for each faculty to clarify differentiating approaches, as well as creating cheatcheets on more specific types of data, e.g. qualitative data. 
+As researchers, we understand how challenging it can be to make your research outputs Findable, Accessible, Interoperable, and Reusable (FAIR). However, making your data and code FAIR is very important for ensuring impact and transparancy of your research.
+
+To help you with this task, we've put together a series of cheatsheets that provide easy-to-follow instructions for making your research outputs FAIR. Whether you're just getting started with data and code publishing, or you're looking to improve your existing practices, these cheatsheets offer practical guidance that you can implement right away. The cheatsheets cover a range of topics, including data and code sharing, metadata, READMEs, and licensing. There are also links included to additional resources and tools that can help you along the way.
 
 ## Contributions are welcome! :star:
 
