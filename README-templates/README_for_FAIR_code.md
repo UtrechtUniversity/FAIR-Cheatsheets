@@ -1,51 +1,57 @@
-# Title describing your dataset
+# Title of your code or analysis
 
-Write here an introduction to your dataset. Describe the project in
-which the dataset was collected and describe the dataset itself.
+Provide a concise and informative title for your code or analysis that
+accurately reflects its content.
+
+## Introduction
+
+In this section, provide an overview of your code and describe the
+project in which the code was developed. Highlight the purpose,
+scope, and potential uses of your code. Also, consider including
+links to relevant publications or resources that provide additional
+context.
+
 
 ## Prerequisites
 
-Instructions how to ...
-What software/code was used?
+Include any necessary prerequisites for using your code, such as
+required datasets, specific software, dependencies or hardware requirements. For example: This project required Python 3.8 or later and install the dependencies with `pip install -r requirements.txt`. 
 
-## Folder contents
+## Contents 
 
-Describe the contents of your data package. This is especially 
-interesting if there are multiple files. Start with describing the 
-folder structure, what you can expect in each folder and then the files. 
-You can make a table or filetree if you think that is useful for the project. 
-File naming 
-File format 
+### Folder structure
 
-## Data Collection (optional)
+Describe the organization of your package, including the contents
+of each folder and the files it contains. Use tables or file trees to
+make it easy for users to understand your folder structure. Describe where results and figures are store if not added to the project folder. 
 
-Maybe include RQ
+### File formats 
 
-## (for simple) Codebook 
+Describe the file format(s) used in your project and the software
+required to open them. 
 
-How was the dataset processed?
-A codebook explains the variables in the dataset(s). This is interesting for 
-tabular dataset, but also all kinds of other files. Give at minimum the name 
-of the variable, a description, and the type. A format can be:
+## Usage
 
-| Variable | Description             | Type                                  |
-|----------|-------------------------|---------------------------------------|
-| my_var   | Description of the var  | Type of the var, e.g. string, integer |
+Describe how anyone (or you in the future), can rerun the analysis and code. Include detailed step by step instructions if your work consists of multiple execution steps. 
 
 ## License
 
 With a open license, you grant permission to use your work. The most common open 
-data licenses are [Creative Commons licenses](https://creativecommons.org/about/cclicenses/). 
+software licenses are MIT, GPL3 and Apache 2.0. The most used license by Utrecht Univerversity researchers is MIT. 
+
 For example:
 
-> This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+> This work is licensed under the MIT License.
 
-## Citation 
+## Citation (optional)
 
-Recommend a citattion for dataset 
+Provide clear instructions on how to cite your code or related
+publications in a research paper or publication.
+
+On GitHub, you can also add a file CITATION.CFF. 
 
 ## Contact 
 
-Add information how people can ask questions, contribute or expand your work. There
-is no need to add all contributors here, as they are part of the metadata of your 
-dataset when uploading to a data repository. 
+Include contact information for questions or comments about your
+code. You can also provide clear instructions for how users can
+provide feedback, contribute, or suggest improvements to your work. 
