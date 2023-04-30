@@ -32,3 +32,5 @@ In order to advance this project of the FAIR cheat sheets, your contributions ar
 
 - Create a FAIR cheatsheet for your specific output based on this template
 - Make topic specific cheatsheets
+
+For a more indepth guide on how to contribute visit the [contributing.md](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/CONTRIBUTING.md) on this github page
