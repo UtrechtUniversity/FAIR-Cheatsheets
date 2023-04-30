@@ -2,7 +2,7 @@
 
 In order to advance this project of the FAIR cheat sheets, your contributions are very much appreciated. :raised_hands:
 
-## Cheatsheets
+## Ways to contribute to the Cheatsheets
 
 Contributions are welcome in a number of ways. Possible ways include:
 
@@ -35,20 +35,18 @@ The current data cheatsheet is available on [Canva](https://www.canva.com/). Can
 
 ### :speech_balloon: Add a comment to one of the cheatsheets
 
-(account needed?)
-1. Access one of the links: the date cheatsheet (link) or the code cheatsheet (link)
-2. Make a comment to the original design via canva comment option
-3. Write an e-mail informing us about the comments you made
+1. Make a free account on Canva
+2. Access one of the links: the date cheatsheet (link) or the code cheatsheet (link)
+3. Make a comment to the original design via canva comment option
 
 
 ### :pencil2: Edit the existing UU FAIR Cheatsheets
 
-1. (Notify the FAIR data & software team via email (xxx) about the changes you intend to make)
-2. Make a free account on Canva
-3. Access one of the links: the date cheatsheet (link) or the code cheatsheet (link)
-4. Make a copy of the canva file by going to “file” and “make a copy”
-5. Make the changes you intend to make
-6. Share the new document with us in form of a link or a pdf with a quick explanation of what you did
+1. Make a free account on Canva
+2. Access one of the links: the date cheatsheet (link) or the code cheatsheet (link)
+3. Make a copy of the canva file by going to “file” and “make a copy”
+4. Make the changes you intend to make
+5. Share the new document with us in form of a link or a pdf with a quick explanation of what you did
 
 
 ### :bookmark_tabs: Make a new cheat sheet
