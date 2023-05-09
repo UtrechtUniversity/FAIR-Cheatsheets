@@ -22,7 +22,7 @@ Contributions are welcome in a number of ways. Possible ways include:
 This can be done by accessing the:
 
 - [FAIR cheatsheet template](https://www.canva.com/design/DAFefwco7Os/FWtDm6-BLR7NSL1f8TVNIg/edit?utm_content=DAFefwco7Os&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) which is a general template of the cheatsheet design
-- Or the already existing Data and Code cheatsheets
+- Or the already existing [Data and Code cheatsheets](https://www.canva.com/design/DAFbwCJqZZU/ec6rkzFDDEVdxLkwFlFatA/edit?analyticsCorrelationId=2d93fe67-cdde-4a63-ba46-85e36193d6c1)
 
 
 
