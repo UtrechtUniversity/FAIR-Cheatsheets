@@ -13,10 +13,6 @@ To help you with this task, we've put together a series of cheatsheets that prov
   <img alt="Data" src="https://user-images.githubusercontent.com/129504323/233618231-cf5956fc-9087-41b0-9dcb-edd35f430053.png" width="45%">&nbsp; &nbsp; &nbsp; &nbsp;  
   <img alt="Code" src="https://user-images.githubusercontent.com/129504323/233618240-9b59b2a8-6a2b-40ca-a7c1-039c111ccf81.png" width="45%">
 </p>
-<p align="center">
-  <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235348909-19ae1d18-1a79-498b-aca5-6e92cbb47c64.png" width="45%">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235349097-ee874dbf-0025-46a2-b290-c787fb43eef3.png" width="45%">
-</p>
 
 ## Contributions are welcome! :star:
 
@@ -32,5 +28,12 @@ In order to advance this project of the FAIR cheat sheets, your contributions ar
 
 - Create a FAIR cheatsheet for your specific output based on this template
 - Make topic specific cheatsheets
+
+Use this template to get yourself started:
+
+<p align="center">
+  <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235348909-19ae1d18-1a79-498b-aca5-6e92cbb47c64.png" width="25%">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235349097-ee874dbf-0025-46a2-b290-c787fb43eef3.png" width="25%">
+</p>
 
 For a more indepth guide on how to contribute visit the [contributing.md](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/CONTRIBUTING.md) on this github page
