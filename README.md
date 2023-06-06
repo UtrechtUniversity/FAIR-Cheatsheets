@@ -1,3 +1,5 @@
+🌟 *This project is work in progress. All feedback is welcome in the issue tracker or as comments on the cheatsheets.* 🌟 
+
 # FAIR Cheatsheets
 
 Welcome to our cheatsheets for making your research data and code FAIR! :sparkles:
