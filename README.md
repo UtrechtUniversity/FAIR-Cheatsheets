@@ -9,9 +9,9 @@ As researchers, we understand how challenging it can be to make your research ou
 To help you with this task, we've put together a series of cheatsheets that provide easy-to-follow instructions for making your research outputs FAIR. Whether you're just getting started with data and code publishing, or you're looking to improve your existing practices, these cheatsheets offer practical guidance that you can implement right away. The cheatsheets cover a range of topics, including data and code sharing, metadata, READMEs, and licensing. There are also links included to additional resources and tools that can help you along the way.
 
 <p align="center">
-  <a href="FAIR Data Cheatsheet UU.pdf">
+  <a href="FAIR Data Cheatsheet">
   <img alt="Data" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691058-fbd5c6ad-fc38-4d06-85ce-3ecd5d8ea8a4.png" width="45%"></a>&nbsp; &nbsp; &nbsp; &nbsp;  
-  <a href="FAIR Data Cheatsheet UU.pdf"><img alt="Data" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691072-200b02c7-6592-4866-91df-8d0f16b1e2ae.png" width="45%"></a>
+  <a href="FAIR Data Cheatsheet"><img alt="Data" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691072-200b02c7-6592-4866-91df-8d0f16b1e2ae.png" width="45%"></a>
 </p>
 <p align="center"> 
   <a href="FAIR Code Cheatsheet">
