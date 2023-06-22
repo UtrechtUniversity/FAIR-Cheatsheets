@@ -14,9 +14,9 @@ To help you with this task, we've put together a series of cheatsheets that prov
   <a href="FAIR Data Cheatsheet UU.pdf"><img alt="Data" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691072-200b02c7-6592-4866-91df-8d0f16b1e2ae.png" width="45%"></a>
 </p>
 <p align="center"> 
-  <a href="FAIR Code Cheatsheet UU DIGITAL.pdf">
+  <a href="FAIR Code Cheatsheet">
   <img alt="Code" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691095-3ae71929-4824-45e3-8eb5-5efce2ae4916.png" width="45%"></a>&nbsp; &nbsp; &nbsp; &nbsp;  
-  <a href="FAIR Code Cheatsheet UU DIGITAL.pdf"><img alt="Code" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691111-d6185249-3e89-48a3-a0ea-b95fa2ccddf3.png" width="45%"></a>
+  <a href="FAIR Code Cheatsheet"><img alt="Code" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691111-d6185249-3e89-48a3-a0ea-b95fa2ccddf3.png" width="45%"></a>
 </p>
 
 ## Contributions are welcome! :star:
