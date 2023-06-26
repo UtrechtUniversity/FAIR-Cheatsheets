@@ -32,7 +32,7 @@ In order to advance this project of the FAIR cheat sheets, your contributions ar
 ### Create a new FAIR cheatsheet using the template :page_facing_up:
 
 - Create a FAIR cheatsheet for your specific output based on this template
-- Make topic specific cheatsheets
+- Make topic-specific cheatsheets
 
 Use this template to get yourself started:
 
@@ -41,4 +41,8 @@ Use this template to get yourself started:
   <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235349097-ee874dbf-0025-46a2-b290-c787fb43eef3.png" width="25%">
 </p>
 
-For a more indepth guide on how to contribute visit the [contributing.md](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/CONTRIBUTING.md) on this github page
+For a more in-depth guide on how to contribute, visit the [contributing.md](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/CONTRIBUTING.md) on this GitHub page
+
+### License
+
+The FAIR cheatsheets are published under the [CC-BY license](/LICENSE).
