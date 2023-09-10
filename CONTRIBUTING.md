@@ -15,7 +15,7 @@ Contributions are welcome in a number of ways. Possible ways include:
 
 ### Create your own FAIR cheatsheet using the template :page_facing_up:
 
-- Create a cheatsheet more specific for your faculty based on this design template
+- Create a more specifc cheatsheet relevant to your faculty based on the design template
 - Make topic specific cheatsheets
 
 
