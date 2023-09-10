@@ -2,11 +2,11 @@
 
 # FAIR Cheatsheets
 
-Welcome to our cheatsheets for making your research data and code FAIR! :sparkles:
+Welcome to our cheatsheets designed to assist you in enhancing the FAIRness of your research data and code! :sparkles:
 
-As researchers, we understand how challenging it can be to make your research outputs [Findable, Accessible, Interoperable, and Reusable (FAIR)](https://en.wikipedia.org/wiki/FAIR_data). However, making your data and code FAIR is very important for ensuring impact and transparancy of your research.
+We understand how challenging it can be for researchers to make your research outputs [Findable, Accessible, Interoperable, and Reusable (FAIR)](https://en.wikipedia.org/wiki/FAIR_data). Nevertheless, the significance of ensuring the FAIRness of your data and code cannot be overstated, as it directly impacts the transparency and influence of your research.
 
-To help you with this task, we've put together a series of cheatsheets that provide easy-to-follow instructions for making your research outputs FAIR. Whether you're just getting started with data and code publishing, or you're looking to improve your existing practices, these cheatsheets offer practical guidance that you can implement right away. The cheatsheets cover a range of topics, including data and code sharing, metadata, READMEs, and licensing. There are also links included to additional resources and tools that can help you along the way.
+To simplify this task, we've put together a series of cheatsheets that provide easy-to-follow instructions for making your research outputs FAIR. Whether you're embarking on your journey in data and code publication or seeking to enhance your current practices, these cheatsheets provide actionable guidance that you can readily implement. The cheatsheets cover a range of topics, including data and code sharing, metadata, READMEs, and licensing. Additionally, we've included links to supplementary resources and tools that can further support you throughout your FAIRness journey.
 
 <p align="center">
   <a href="cheatsheets/FAIR_data_publishing/cheatsheet_FAIR_data_publishing.pdf">
