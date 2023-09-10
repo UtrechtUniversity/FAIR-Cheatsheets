@@ -28,7 +28,7 @@ This can be done by accessing the:
 
 ## What files are available (e.g. Canva etc.) and how this works
 
-The current data cheatsheet is available on [Canva](https://www.canva.com/). Canva is a free-to-use online graphic design and publishing tool. On this platform, it is easy to work on the same design with multiple people as a team. The cheatsheet can be downloaded as a JPG, PNG or PDF from the website.
+You can access the latest data cheatsheet via [Canva](https://www.canva.com/), a free-to-use online graphic design and publishing tool. Canva makes collaborative work a breeze, allowing multiple team members to collaborate on the same design seamlessly. The cheatsheet can be downloaded as a JPG, PNG or PDF from the website.
 
 
 ## How to contribute
