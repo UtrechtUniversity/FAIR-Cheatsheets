@@ -52,7 +52,7 @@ You can access the latest data cheatsheet via [Canva](https://www.canva.com/), a
 ### :bookmark_tabs: Make a new cheat sheet
 
 1. Make a free account on Canva
-2. Access the links to the Canva page of [the Cheatsheet template](https://www.canva.com/design/DAFefwco7Os/FWtDm6-BLR7NSL1f8TVNIg/edit?utm_content=DAFefwco7Os&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "generic template")
+2. Access the links to the Canva page of [the cheatsheet template](https://www.canva.com/design/DAFefwco7Os/FWtDm6-BLR7NSL1f8TVNIg/edit?utm_content=DAFefwco7Os&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "generic template")
 3. Make a copy of the canva file by going to “file” and “make a copy”
 4. Design a new cheatsheet
 5. Share the new document with us in form of a link or a pdf with a quick explanation of what you did
