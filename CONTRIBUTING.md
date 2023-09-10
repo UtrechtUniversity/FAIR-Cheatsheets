@@ -21,8 +21,8 @@ Contributions are welcome in a number of ways. Possible ways include:
 
 This can be done by accessing the:
 
-- [FAIR cheatsheet template](https://www.canva.com/design/DAFefwco7Os/FWtDm6-BLR7NSL1f8TVNIg/edit?utm_content=DAFefwco7Os&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) on canva which is a general template of the cheatsheet design
-- Or make changes to the already existing [Data and Code cheatsheets](https://www.canva.com/design/DAFbwCJqZZU/ec6rkzFDDEVdxLkwFlFatA/edit?analyticsCorrelationId=2d93fe67-cdde-4a63-ba46-85e36193d6c1) on canva
+- [FAIR cheatsheet template](https://www.canva.com/design/DAFefwco7Os/FWtDm6-BLR7NSL1f8TVNIg/edit?utm_content=DAFefwco7Os&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) on Canva which is a general template of the cheatsheet design
+- Or make changes to the already existing [Data and Code cheatsheets](https://www.canva.com/design/DAFbwCJqZZU/ec6rkzFDDEVdxLkwFlFatA/edit?analyticsCorrelationId=2d93fe67-cdde-4a63-ba46-85e36193d6c1) on Canva
 
 
 
@@ -37,7 +37,7 @@ You can access the latest data cheatsheet via [Canva](https://www.canva.com/), a
 
 1. Create a free account on Canva or log in
 2. Access this links to to Canva page of [the data cheatsheet and the code cheatsheet](https://www.canva.com/design/DAFbwCJqZZU/ec6rkzFDDEVdxLkwFlFatA/edit?analyticsCorrelationId=2d93fe67-cdde-4a63-ba46-85e36193d6c1) 
-3. Make a comment to the original design via canva's comment option
+3. Make a comment to the original design via Canva's comment option
 
 
 ### :pencil2: Edit the existing UU FAIR Cheatsheets
