@@ -21,7 +21,7 @@ To simplify this task, we've put together a series of cheatsheets that provide e
 
 ## Contributions are welcome! :star:
 
-In order to advance this project of the FAIR cheat sheets, your contributions are very much appreciated. :raised_hands: Possible ways get yourself involved are:
+In order to advance this project of the FAIR cheatsheets, your contributions are very much appreciated. :raised_hands: Possible ways get yourself involved are:
 
 ### Contribute to data or code cheatsheet :pencil:
 
