@@ -45,7 +45,7 @@ You can access the latest data and code cheatsheet via [Canva](https://www.canva
 1. Create a free account on Canva or log in 
 2. Access this link to the Canva page of [the data cheatsheet and the code cheatsheet](https://www.canva.com/design/DAFbwCJqZZU/ec6rkzFDDEVdxLkwFlFatA/edit?analyticsCorrelationId=2d93fe67-cdde-4a63-ba46-85e36193d6c1)
 3. Make a copy of the canva file by going to “file” and “make a copy”
-4. Make your intendec changes
+4. Make your intended changes
 5. Share the new document with us in form of a link or a pdf with a quick explanation of what you did
 
 
