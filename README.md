@@ -15,8 +15,8 @@ To simplify this task, we've put together a series of cheatsheets that provide e
 </p>
 <p align="center"> 
   <a href="cheatsheets/FAIR_code_publishing/cheatsheet_FAIR_code_publishing.pdf">
-  <img alt="Code" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691095-3ae71929-4824-45e3-8eb5-5efce2ae4916.png" width="45%"></a>&nbsp; &nbsp; &nbsp; &nbsp;  
-  <a href="cheatsheets/FAIR_code_publishing/README_FAIR_code_publishing.md"><img alt="Code" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691111-d6185249-3e89-48a3-a0ea-b95fa2ccddf3.png" width="45%"></a>
+  <img alt="Code" src="https://github.com/UtrechtUniversity/FAIR-Cheatsheets/assets/128072114/dc7501ed-8060-4c8b-864e-1d9332d01a9f" width="45%"></a>&nbsp; &nbsp; &nbsp; &nbsp;  
+  <a href="cheatsheets/FAIR_code_publishing/README_FAIR_code_publishing.md"><img alt="Code" src="https://github.com/UtrechtUniversity/FAIR-Cheatsheets/assets/128072114/a1702fc9-9a3d-43f6-8b83-7371974e33ee" width="45%"></a>
 </p>
 
 ## Contributions are welcome! :star:
