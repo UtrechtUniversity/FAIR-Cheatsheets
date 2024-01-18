@@ -10,7 +10,7 @@ To simplify this task, we've put together a series of cheatsheets that provide e
 
 <p align="center">
   <a href="cheatsheets/FAIR_data_publishing/cheatsheet_FAIR_data_publishing.pdf">
-  <img alt="Data" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691058-fbd5c6ad-fc38-4d06-85ce-3ecd5d8ea8a4.png" width="45%"></a>&nbsp; &nbsp; &nbsp; &nbsp;  
+  <img alt="Data" src="![1](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/assets/128072114/87d724bb-6fee-46c7-908a-4d3c6265f58b)" width="45%"></a>&nbsp; &nbsp; &nbsp; &nbsp;  
   <a href="cheatsheets/FAIR_data_publishing/README_FAIR_data_publishing.md"><img alt="Data" src="https://github-production-user-asset-6210df.s3.amazonaws.com/12981139/243691072-200b02c7-6592-4866-91df-8d0f16b1e2ae.png" width="45%"></a>
 </p>
 <p align="center"> 
