@@ -37,8 +37,8 @@ In order to advance this project of the FAIR cheatsheets, your contributions are
 Use this template to get yourself started:
 
 <p align="center">
-  <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235348909-19ae1d18-1a79-498b-aca5-6e92cbb47c64.png" width="25%">&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Template" src="https://user-images.githubusercontent.com/128072114/235349097-ee874dbf-0025-46a2-b290-c787fb43eef3.png" width="25%">
+  <img alt="Template" src="https://github.com/UtrechtUniversity/FAIR-Cheatsheets/assets/128072114/ef3452ab-dea9-4141-b43f-164251ab0921" width="25%">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Template" src="https://github.com/UtrechtUniversity/FAIR-Cheatsheets/assets/128072114/e809196e-ea6c-4b8b-bc71-5fbfd0d31160" width="25%">
 </p>
 
 For a more in-depth guide on how to contribute, visit the [contributing.md](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/CONTRIBUTING.md) on this GitHub page
